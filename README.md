@@ -1,4 +1,4 @@
 coreservlets
 ============
 
-Studio per il libero Core Servlets and Java Server Pages
+Studio per il libro Core Servlets and Java Server Pages
